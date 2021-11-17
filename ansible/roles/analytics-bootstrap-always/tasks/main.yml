@@ -27,6 +27,7 @@
     - rsync
     - zip
     - python3-pip
+    - acl
 
 - name: Set locale LC_ALL=en_US.UTF-8
   become: yes
